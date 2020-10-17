@@ -74,5 +74,5 @@ except KeyboardInterrupt:
     print '[-] Canceled'
     sys.exit()
 except smtplib.SMTPAuthenticationError:
-    print '\n[!] bhaag harami gmail our password thk laga.'
+    print '\n[!] bhaag harami gmail our passwor.'
     sys.exit()
